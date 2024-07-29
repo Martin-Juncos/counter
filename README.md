@@ -1,5 +1,6 @@
 ### Descripción
 https://martin-juncos.github.io/counter/
+
 El proyecto "Counter" es una aplicación sencilla que permite a los usuarios incrementar y decrementar un contador. Está desarrollado utilizando JavaScript y sirve como un excelente ejemplo para entender la manipulación del DOM y los eventos en JavaScript.
 
 ### Funcionalidades
